@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+### About this app
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is a small expense tracker that can be used to add in items with both positive and negative values and this will be reflected with both green/red colour and in the top diplay where a balance is updated dynamically.
 
-## Available Scripts
+I wanted to learn more about simple apps and so followed along a tutorial on YouTube created by Traversy Media (Build an Expense Tracker video) in order to better understand principles of React and how to use functions such as reduce/GlobalState/setContext.
+
+I will aim to update this app with further features of my own and change the layout and design in the future.
+
+## Getting started
 
 In the project directory, you can run:
 
