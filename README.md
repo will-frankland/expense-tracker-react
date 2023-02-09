@@ -20,4 +20,4 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-!["Screenshot of Expense Tracker"]()
+!["Screenshot of Expense Tracker"](https://github.com/will-frankland/expense-tracker-react/blob/master/docs/screenshot.png?raw=true)
